@@ -1,0 +1,4 @@
+~/MessingAround$ git remote -v
+origin	https://github.com/wisewillwin/MessingAround.git (fetch)
+origin	https://github.com/wisewillwin/MessingAround.git (push)
+~/MessingAround$ git remote set-url origin https://wisewillwin@github.com/wisewillwin/MessingAround.git
